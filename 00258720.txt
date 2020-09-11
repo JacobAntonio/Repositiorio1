@@ -1,0 +1,43 @@
+Jacob Antonio Shul Martin.....................00258720
+Ingeniería Informática Ciclo 02/2020
+Programación de Estructuras Dinámicas
+		
+			PRIMER EXÁMEN PARCIAL
+
+I. Preguntas Conceptuales
+	1. Explíque la diferencia entre la indirección y la desreferencia.
+		Indirección es apartar un espacio específico en la memoria de la
+		computadora para una variable puntero.
+		Desreferencia es acceder al valor en guardado en la dirección de
+		memoria del puntero 
+
+	2. Explíque qué es un registro y de dos ejemplos de la vida real en que
+	se podrían ocupar.
+		Tipo de dato personalizado en el cual cada elemento puede tener
+		su propio tipo, el cual puede ser diferente a los tipos de los
+		demás elementos, siempre y cuando que esta esté relacionada
+		lógicamente.
+		Un ejemplo de un registro en la vida real es el DUI, el cuál guarda
+		datos como lo son: nombre, lugar de residencia, edad, sexo, fecha
+		de nacimiento, código de zona, tipo de sangre y estado familiar.  		
+
+II. Análisis de código
+	1. ¿Cúal función escogió ústed?	 
+		Invertir lista enlazada
+	
+	2. ¿Cuántos casos base posee?
+		3
+
+	3. ¿Cuántos casos recursivos posee?
+		2
+
+	4. ¿Qué tipo de recursión utiliza?
+		Recursión Múltiple
+		Recursión lineal no final
+		Recursión lineal 
+
+Ejercicio práctico: tareas.cpp
+Ejercicio recursivo: Jerigonza P.
+
+
+
